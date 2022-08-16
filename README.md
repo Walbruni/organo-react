@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Organo
+
+Aplicação de um organo desenvolvida em ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
